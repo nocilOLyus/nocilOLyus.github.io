@@ -5843,7 +5843,7 @@ img[src="/assets/e8b66317ab0dc9ba3bf8d41a4f3ec914.png"] {	/* videosettings		opus
 	-webkit-mask: url(https://discordapp.com/assets/296aebeec33f5ce47db9ebbee9ccf1fc.svg) center/contain no-repeat;
 }
 #app-mount .premiumLogo-30dge3 {
-	/*-webkit-mask: url(https://discordapp.com/assets/9328a2df4b542ac8725b57010a52f73b.svg) center/contain no-repeat;*/
+	-webkit-mask: url(https://discordapp.com/assets/9328a2df4b542ac8725b57010a52f73b.svg) center/contain no-repeat;
 	background: rgb(var(--fontwhite1));
 }
 .noticeBrand-3nQBC_ {
@@ -7196,7 +7196,7 @@ body>div:last-of-type{background:var(--background-image)!important;background-si
 .name-IbjUBS{color:var(--main-color)}
 .wrapper-CU3qI5.muted-1NRuDm:hover .icon-WnO6o2,.wrapper-CU3qI5.muted-1NRuDm:hover .name-IbjUBS,.wrapper-CU3qI5:hover .icon-WnO6o2,.wrapper-CU3qI5:hover .name-IbjUBS{color:var(--main-color);filter:brightness(150%)}
 .sidebar-2K8pFh{border-radius:0!important;background-color:var(--main-transparency)}
-.scroller-2FKFPG>.listItem-2P_4kh:first-child>.listItemWrapper-3X98Pc>.wrapper-25eVIn>svg{opacity:0}
+/*.scroller-2FKFPG>.listItem-2P_4kh:first-child>.listItemWrapper-3X98Pc>.wrapper-25eVIn>svg{opacity:0}*/
 .base-3dtUhz{left:72px}
 .scroller-2TZvBN{background-color:transparent}
 .messages-3amgkR{background-color:transparent}
