@@ -284,12 +284,12 @@ body:before {
 
 /* ~~~~		4.		GUILDLIST						~~~~ */
 
-/*.childWrapper-anI2G9,										
+.childWrapper-anI2G9,										
 #bd-pub-button {											 							
 	background-color: rgba(var(--vtransparencycolor), 0.3);
 	color: rgb(var(--fontwhite1));
 	font-weight: 500;
-}*/
+}
 .wrapper-1BJsBx:hover svg,
 .wrapper-1BJsBx.selected-bZ3Lue svg {
 	filter: drop-shadow(1px 1px var(--vtextshadow));
@@ -6981,7 +6981,7 @@ div.unread-mentions-indicator-bottom{display:none!important}
 @keyframes rainbow{0%{-webkit-filter:hue-rotate(0);-moz-filter:hue-rotate(0);-ms-filter:hue-rotate(0);filter:hue-rotate(0)}
 100%{-webkit-filter:hue-rotate(360deg);-moz-filter:hue-rotate(360deg);-ms-filter:hue-rotate(360deg);filter:hue-rotate(360deg)}
 }
-.theme-dark .container-1ETFDs .homeButton-2Cw51C{background:0 0;border-radius:25px!important}
+/*.theme-dark .container-1ETFDs .homeButton-2Cw51C{background:0 0;border-radius:25px!important}*/
 .container-1ETFDs:hover{transform:scale(1.08)}
 .container-1ETFDs .guildIcon-VlWW86{border-radius:25px}
 .scroller-2FKFPG>.listItem-2P_4kh:first-child>.listItemWrapper-3X98Pc>.wrapper-25eVIn{background:var(--friends-icon)!important;background-position:var(--friends-icon-position)!important;background-repeat:no-repeat!important;background-size:var(--friends-icon-zoom)!important;border-radius:100%}
