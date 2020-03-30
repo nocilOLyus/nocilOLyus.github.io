@@ -6978,7 +6978,7 @@ div.unread-mentions-indicator-bottom{display:none!important}
 .typeWindows-1za-n7{height:23px;margin-top:0;background:var(--main-transparency)}
 .winButton-iRh8-Z{top:0!important}
 .theme-dark .container-1ETFDs.unread-2OHH1w:before{background:var(--main-color);animation:var(--unread-server-animation) 3s linear infinite}
-@keyframes rainbow{0%{-webkit-filter:hue-rotate(0);-moz-filter:hue-rotate(0);-ms-filter:hue-rotate(0);filter:hue-rotate(0)}
+@keyframes rainbow{0%{-webkit-filter:hue-rotate(0);-moz-filter:hue-rotate(0);-ms-filter:hue-rotate(0);filter:hue-rotate(0.5)}
 100%{-webkit-filter:hue-rotate(360deg);-moz-filter:hue-rotate(360deg);-ms-filter:hue-rotate(360deg);filter:hue-rotate(360deg)}
 }
 .theme-dark .container-1ETFDs .homeButton-2Cw51C{background:0 0;border-radius:25px!important}
