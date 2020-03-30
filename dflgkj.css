@@ -7196,7 +7196,7 @@ body>div:last-of-type{background:var(--background-image)!important;background-si
 .name-IbjUBS{color:var(--main-color)}
 .wrapper-CU3qI5.muted-1NRuDm:hover .icon-WnO6o2,.wrapper-CU3qI5.muted-1NRuDm:hover .name-IbjUBS,.wrapper-CU3qI5:hover .icon-WnO6o2,.wrapper-CU3qI5:hover .name-IbjUBS{color:var(--main-color);filter:brightness(150%)}
 .sidebar-2K8pFh{border-radius:0!important;background-color:var(--main-transparency)}
-/*.scroller-2FKFPG>.listItem-2P_4kh:first-child>.listItemWrapper-3X98Pc>.wrapper-25eVIn>svg{opacity:0}*/
+.scroller-2FKFPG>.listItem-2P_4kh:first-child>.listItemWrapper-3X98Pc>.wrapper-25eVIn>svg{opacity:1}
 .base-3dtUhz{left:72px}
 .scroller-2TZvBN{background-color:transparent}
 .messages-3amgkR{background-color:transparent}
