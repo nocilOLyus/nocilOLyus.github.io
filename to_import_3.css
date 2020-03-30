@@ -1881,4 +1881,8 @@ img[src*="/assets/0f4d1ff76624bb45a3fee4189279ee92.svg"] + * + *:before {
 #app-mount .root-SR8cQa .topSectionPlaying-1J5E4n .wrapper-3t9DeA.dev-A7f2Rx:before,
 #app-mount .userPopout-3XzG_A .headerPlaying-j0WQBV .avatarWrapper-3H_478.dev-A7f2Rx:before {
 	background: rgb(var(--vaccentcolor)) !important;
+	
 }
+
+
+.scroller-2FKFPG>.listItem-2P_4kh:first-child>.listItemWrapper-3X98Pc>.wrapper-25eVIn{background:var(--friends-icon)!important;
